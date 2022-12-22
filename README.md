@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Golang**
 
-- 💬 Ask me about **Java, DevOps, Backend Development**
+- 💬 Ask me about **Java, Backend Development, The Elder Scrolls fun facts**
 
 - 📫 How to reach me **Seif.Shenawi191@gmail.com**
 
