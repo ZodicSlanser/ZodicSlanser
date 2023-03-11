@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Saif Ad-Din Samir, a passionate CS student with unrealistic expectations<br><br>🌱 I’m currently learning Machine Learning, Golang<br><br>💬 Ask me about Java, Backend Development, The Elder Scrolls fun facts<br><br>📫 How to reach me Seif.Shenawi191@gmail.com
+Hi 👋, I'm Saif Ad-Din Samir, a passionate CS student with unrealistic expectations<br><br>🌱 I’m currently learning Malware Analysis, Reverse Engineering <br><br>💬 Ask me about Backend Development, The Elder Scrolls fun facts<br><br>📫 How to reach me Seif.Shenawi191@gmail.com
 
 
 ## 🌐 Socials:
