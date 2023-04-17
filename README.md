@@ -23,7 +23,7 @@
 
 # 📊 GitHub Stats & Trophies:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zodicslanser&show_icons=true&theme=dark&locale=en" alt="zodicslanser" /></p>
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zodicslanser&theme=onedark" alt="zodicslanser" /></a> </p>
 
 
 ### ✍️ Random Dev Quote
