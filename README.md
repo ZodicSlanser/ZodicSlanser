@@ -3,7 +3,7 @@
 <h3 align="center">A passionate CS student with unrealistic expectations</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning, Golang**
+- 🌱 I’m currently learning **Backend Development, Malware Analysis**
 
 - 💬 Ask me about **Java, Backend Development, Book Recommendations**
 
