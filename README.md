@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **seif.shenawi191@gmail.com**
 
-- ⚡ Fun fact **loccinaucinihilipilification—one of the longest words in the English language—is the act of estimating that something is worthless.**
+- ⚡ Fun fact **floccinaucinihilipilification—one of the longest words in the English language—is the act of estimating that something is worthless.**
 
 
 
