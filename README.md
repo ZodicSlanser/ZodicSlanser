@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Saif Ad-Din Samir</h1>
-<h3 align="center">A passionate CS Graduate with unrealistic expectations</h3>
+<h3 align="center">A passionate Software Engineer with unrealistic expectations</h3>
 
 
 - 🌱 I’m currently learning **Backend Development, Malware Analysis**
