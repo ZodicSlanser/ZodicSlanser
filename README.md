@@ -3,13 +3,14 @@
 <h3 align="center">A passionate Software Engineer with unrealistic expectations</h3>
 
 
-- 🌱 I’m currently learning **Backend Development, Malware Analysis**
+- 🌱 I’m currently learning **Backend Development with Spring**
 
-- 💬 Ask me about **Java, Backend Development, Book Recommendations**
+- 💬 Ask me about **Web Development, Software engineering**, **Skyrim lore**
 
-- 📫 How to reach me **Seif.Shenawi191@gmail.com**
+- 📫 How to reach me **seif.shenawi191@gmail.com**
 
-- ⚡ Fun fact **Floccinaucinihilipilification—one of the longest words in the English language—is the act of estimating that something is worthless.**
+- ⚡ Fun fact **loccinaucinihilipilification—one of the longest words in the English language—is the act of estimating that something is worthless.**
+
 
 
 ## 🌐 Socials:
