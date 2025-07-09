@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer with unrealistic expectations</h3>
 
 
-- 🌱 I’m currently learning **Backend Development with Spring**
+- 🌱 I’m currently learning **Cloud**
 
 - 💬 Ask me about **Web Development, Software engineering**, **Skyrim lore**
 
